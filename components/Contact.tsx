@@ -26,7 +26,7 @@ const contactLinks = [
     icon: <DownloadIcon />,
     label: 'Download CV',
     aria: 'Download my CV',
-    download: true,
+    download: 'Emilio-Mattar-Cv.pdf',
   },
 ];
 
