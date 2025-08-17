@@ -22,7 +22,7 @@ const contactLinks = [
     aria: 'Chat on WhatsApp',
   },
   {
-    href: 'emilio-mattar-cv.pdf',
+    href: '/Emilio-Mattar-Cv.pdf',
     icon: <DownloadIcon />,
     label: 'Download CV',
     aria: 'Download my CV',
